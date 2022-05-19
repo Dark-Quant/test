@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:mythril_block",
+    "testmod:raw_mythril_block",
+    "testmod:mythril_ingot",
+    "testmod:mythril_ore",
+    "testmod:deepslate_mythril_ore",
+    "testmod:netherrack_mythril_ore"
+  ]
+}

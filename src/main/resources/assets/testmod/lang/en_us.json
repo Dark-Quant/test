@@ -1,0 +1,9 @@
+{
+  "itemGroup.testmod.mythril": "Mytheil Mod Tab",
+
+  "item.testmod.mythril_ingot": "Mythril Ingot",
+  "item.testmod.mythril_nugget": "Mythril Nugget",
+  "item.testmod.raw_mythril": "Raw Mythril",
+
+  "block.testmod.deepslate_mythril_ore": "Deepslate Mythril Ore"
+}
